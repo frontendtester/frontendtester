@@ -23,9 +23,9 @@ Frontend dasturchi, frontend dasturlash bo'yicha o'qituvchi.
 
 ## So'nggi loyihalar
 
-| Loyiha demosi | Ta'rif |
+| Preview | Ta'rif |
 |---|---|
-|   |   |
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6) | **Ecommerce product page** <br>Onlayn do'konning mahsulot haqida ma'lumot sahifasi <br><br> <a href="https://github.com/frontendtester/ecommerce-product-page/" target="_blank">Repo</a> | ⌚ 4 soat 45 daqiqa<br><br> **O'ziga xos jihatlari:** Savatchada mahsulot bor-yo'qligiga moslangan dropdown menyu, rasmlar galereyasi, lightbox |
 
 
 ## Sahifalar
